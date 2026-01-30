@@ -1,4 +1,4 @@
-package come.example.springsecurity.jwt;
+package com.example.springsecurity.jwt;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
